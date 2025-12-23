@@ -16,7 +16,7 @@ html, body {
   position:absolute;
   left:50%;
   top:72%;
-  transform:translate(-50%,-50%);
+  transform:translate(-40%,-60%);
   width:min(520px,55vw);
 }
 
